@@ -10,7 +10,7 @@
 
   p {
     font-size: 16px;
-    font-family: monospace;
+    font-family: Lobster;
   }
 
   .thick-green-border {
